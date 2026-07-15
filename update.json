@@ -1,11 +1,11 @@
 {
-  "version": "0.2",
-  "notes": "Auto-released version 0.2",
-  "pub_date": "2026-07-15T03:37:30.022Z",
+  "version": "0.2.3",
+  "notes": "Auto-released version 0.2.3",
+  "pub_date": "2026-07-15T11:49:02.257Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjRSWjUzZ0lNTzNLRlJvN2J5aGIzcnlPRG1HdzdoTCtXZHN1cWtXclcrenhHellnMW5IaGttMGhiRE9GUFFmd0tSZjFydnFyWlpJcWlEcHdXOERqWGp0K0ZHOTZmR3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDg2NTc4CWZpbGU6Z2xpdGNobm90ZV8wLjEuMThfeDY0LXNldHVwLmV4ZQpEZWVMWkF1SFVPT3dJR2E2OSt0Wk5sQkFzYkgwbWc3RlRuMDZ5aFEvNkh5WG1FT3h3TjJRQnRYSjlRL1BUa1ROaUpDdEFLdWp3c2kxZzBJZG9JNk9DUT09Cg==",
-      "url": "https://github.com/sesoyaapp-hub/GlitchNote-releases/releases/download/v0.2/glitchnote_0.1.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjRSWjUzZ0lNTzhuZTBLY1NWT1p1eTVjYUJmc25mcFA5ekpLSnZyR3o2dnNmRFRidFBhaTJDVjBMTjlLa0ZrTitKRWJPRFd2V1RoMWZVd2tENWRhMEI3dFV5aC9VK3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTE2MDM1CWZpbGU6Z2xpdGNobm90ZV8wLjEuMThfeDY0LXNldHVwLmV4ZQpIYVRIVGk3OFpzNnhwcGVuS29aYjZCN29VaG0ycVI4WExKNjJ6UW5IWnpIbFZkd09wazk4Z3paZFJaVnYyeDR2eTJhRDNralprUDJYcEhucittYTdBdz09Cg==",
+      "url": "https://github.com/sesoyaapp-hub/GlitchNote-releases/releases/download/v0.2.3/glitchnote_0.1.18_x64-setup.exe"
     }
   }
 }
