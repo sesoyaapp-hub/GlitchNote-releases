@@ -1,11 +1,19 @@
 {
-  "version": "2.6.0",
+  "version": "2.6.1",
   "notes": "α版配信中",
-  "pub_date": "2026-07-28T11:18:43.798Z",
+  "pub_date": "2026-07-28T11:49:59.708Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjRSWjUzZ0lNTzloWWtRUlM2S2prSmxFT2dKZ2M1UEI5NEVIMFd6bW1rZnhNejBVTnpDNDBiSlNVd0w4V0o5SXlkN2dGSzBsK2t5MmJNZC9tb2R3K0p3VnZ3S1U0aUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjM3Mzk3CWZpbGU6Z2xpdGNobm90ZV8yLjYuMF94NjQtc2V0dXAuZXhlCkpuVFlMaHduNWcxbFhSTzJldGpwN2ZsWFdpZkRBbkwyOTdDU3B1MDE1OHRRRUR1SnZFNEJnZnVsbktQeHhsbVMwdFpZNUxkQXgyS2lmWWJBd3VsWURRPT0K",
-      "url": "https://github.com/sesoyaapp-hub/GlitchNote-releases/releases/download/v2.6.0/glitchnote_2.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjRSWjUzZ0lNTzBhNndaUkduQ0RqL0o5d0ZVdXJQejVpYlAwWFZPY1NmK3ZtYi9qV3M1LzErMFYvOEZaOXQweGUxVjlzTGRUWkl5bldQYWVKWTFvVHVnUGRram5TMFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjM4ODIzCWZpbGU6Z2xpdGNobm90ZV8yLjYuMV94NjQtc2V0dXAuZXhlCnZFNUl2a0ZPZkV1OEdsZGsyT3NCd043bUFYeGZtVDJuKy9kc01QU3pDVC9BM3Fremk4ejhLdi9FanV5dC9MeGVLUC9NUTUyajlSa29OTS9uNk5HOERBPT0K",
+      "url": "https://github.com/sesoyaapp-hub/GlitchNote-releases/releases/download/v2.6.1/glitchnote_2.6.1_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjRSWjUzZ0lNTzdtSndFaFpWeDRYbjljN3FYTjB5ZldVNXhPNUZZekZPbkFYYnpPVUh2WkF3Y3ZLOHBBdDNTNkp2TGN5QmNKVjN6NHNLVlZxNkhhRUk2Nm1WMFBXYXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjM4NDk1CWZpbGU6Z2xpdGNobm90ZS5hcHAudGFyLmd6Ck0wemNuOWxQMEdKOTFIcFFRaHI1ejBjM016b3BIUFlkRk0yak54NFA0dXg5LzJFTjJtWHkxclF0OGhNUlJXeWlXNHY1TnhtbHdzQnd1cGhSVkVYZUFnPT0K",
+      "url": "https://github.com/sesoyaapp-hub/GlitchNote-releases/releases/download/v2.6.1/glitchnote.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjRSWjUzZ0lNTzdtSndFaFpWeDRYbjljN3FYTjB5ZldVNXhPNUZZekZPbkFYYnpPVUh2WkF3Y3ZLOHBBdDNTNkp2TGN5QmNKVjN6NHNLVlZxNkhhRUk2Nm1WMFBXYXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjM4NDk1CWZpbGU6Z2xpdGNobm90ZS5hcHAudGFyLmd6Ck0wemNuOWxQMEdKOTFIcFFRaHI1ejBjM016b3BIUFlkRk0yak54NFA0dXg5LzJFTjJtWHkxclF0OGhNUlJXeWlXNHY1TnhtbHdzQnd1cGhSVkVYZUFnPT0K",
+      "url": "https://github.com/sesoyaapp-hub/GlitchNote-releases/releases/download/v2.6.1/glitchnote.app.tar.gz"
     }
   }
 }
