@@ -1,19 +1,19 @@
 {
-  "version": "2.7.1",
+  "version": "2.7.2",
   "notes": "α版配信中",
-  "pub_date": "2026-07-29T01:26:41.698Z",
+  "pub_date": "2026-07-29T04:15:57.510Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjRSWjUzZ0lNTzluQVlWVmRzSE9NMTNxWG91cVpDTGNYSm0xWlNjekJWNGY3YVZqejJEYzVHeEFTMWV0L3lWb1RwL0NFVUZCQy9sblY1Zm9xSi9iQXhySTJETlA4WFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mjg4MzA1CWZpbGU6Z2xpdGNobm90ZV8yLjcuMV94NjQtc2V0dXAuZXhlCjR2YjFNWDBlM253YnQ2WjVJbGFzNG5wbzdvb3JYbk9BL1dKRlEvVGdMWklIaEdHYnA2bSs0TUJwYmtZd04vOWdDaUwwRWdVdmpFZnYwbHl1emduYkJnPT0K",
-      "url": "https://github.com/sesoyaapp-hub/GlitchNote-releases/releases/download/v2.7.1/glitchnote_2.7.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjRSWjUzZ0lNTzBob2xLclZwS0dVRTMvbXBEVTdDVHVjOTZqYTl4bytLcDQ4bUNKMUlqbFkrMzNvQVgySUlYajVtai9kTENjZC9FZzdpTW9xOXlBZVFDc0FHd2htZGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mjk4NDM4CWZpbGU6Z2xpdGNobm90ZV8yLjcuMl94NjQtc2V0dXAuZXhlCk1wdVAzaTlEdldJa3NxYUhMbGM2TytNRGVIb2FGdnhSWTluNUFLRkx1cHlIRmMrN1RQSmlOSnlwVHA2ZFdMTU05V3cyaFBwWmVQQ0xWTmR4RlVnd0J3PT0K",
+      "url": "https://github.com/sesoyaapp-hub/GlitchNote-releases/releases/download/v2.7.2/glitchnote_2.7.2_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjRSWjUzZ0lNTzB6U04vUTIzOEhOY2ZXWFF2VkF1SEpJU0Q1cllsVThBTXkvMVEycTFtaHdGcWd5ZDRYamIwRUs3Y20zaWd6eXlRQWwvUTFOY3FvTkc3U0RubTFFNndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mjg3ODM0CWZpbGU6Z2xpdGNobm90ZS5hcHAudGFyLmd6Cm1lUkEvNk5oNFZsRG1WODRJZldzbHdDTkxRcGhvSFEveUs5cDlPMWRpS3QvNlU4alVDSmg3Z3VKZHIvSkdOVVNqOW9xSGNaNlRrSVlZUGNTZlM5akF3PT0K",
-      "url": "https://github.com/sesoyaapp-hub/GlitchNote-releases/releases/download/v2.7.1/glitchnote.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjRSWjUzZ0lNTy94TlJFY2JqOXk1UzkyQkJrRkFuT3I4TkJMeGFBUStsY0M3bWFqeXY4VmVLRnRYeHgzUDFNZ1V0S3V2cnVNT2g2ZDhUalgxYWUrNjUzTlRZRUN5MHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mjk4MDczCWZpbGU6Z2xpdGNobm90ZS5hcHAudGFyLmd6CkQybFJ0Uk9VNSs3UHRmeUxnWVVQaFMvYWh1aEw0ZHhFRzdQV2FWMG9Vd3R6TkIvN2cwd1FpRUZIZkNramp2Z2drd29sNkEwTXMwbmpWeGpnMFlqRkNnPT0K",
+      "url": "https://github.com/sesoyaapp-hub/GlitchNote-releases/releases/download/v2.7.2/glitchnote.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjRSWjUzZ0lNTzB6U04vUTIzOEhOY2ZXWFF2VkF1SEpJU0Q1cllsVThBTXkvMVEycTFtaHdGcWd5ZDRYamIwRUs3Y20zaWd6eXlRQWwvUTFOY3FvTkc3U0RubTFFNndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mjg3ODM0CWZpbGU6Z2xpdGNobm90ZS5hcHAudGFyLmd6Cm1lUkEvNk5oNFZsRG1WODRJZldzbHdDTkxRcGhvSFEveUs5cDlPMWRpS3QvNlU4alVDSmg3Z3VKZHIvSkdOVVNqOW9xSGNaNlRrSVlZUGNTZlM5akF3PT0K",
-      "url": "https://github.com/sesoyaapp-hub/GlitchNote-releases/releases/download/v2.7.1/glitchnote.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjRSWjUzZ0lNTy94TlJFY2JqOXk1UzkyQkJrRkFuT3I4TkJMeGFBUStsY0M3bWFqeXY4VmVLRnRYeHgzUDFNZ1V0S3V2cnVNT2g2ZDhUalgxYWUrNjUzTlRZRUN5MHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mjk4MDczCWZpbGU6Z2xpdGNobm90ZS5hcHAudGFyLmd6CkQybFJ0Uk9VNSs3UHRmeUxnWVVQaFMvYWh1aEw0ZHhFRzdQV2FWMG9Vd3R6TkIvN2cwd1FpRUZIZkNramp2Z2drd29sNkEwTXMwbmpWeGpnMFlqRkNnPT0K",
+      "url": "https://github.com/sesoyaapp-hub/GlitchNote-releases/releases/download/v2.7.2/glitchnote.app.tar.gz"
     }
   }
 }
